@@ -10,6 +10,7 @@ applelushie
 
 ## Project-03
 This is the same file for exercise 3d shaders but is now modified for project-03.
+The video shows me skipping portions of the game so I can display the later mechanics, that won't be involved in this code.
 10/11/2025
 
 Description
